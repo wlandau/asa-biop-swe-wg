@@ -56,7 +56,7 @@ install.packages("pmrm")
 Or install the development version from GitHub:
 
 ```r
-pak::pkg_install("openpharma/pmrm")
+pak::pak("openpharma/pmrm")
 ```
 
 ## Learn more
