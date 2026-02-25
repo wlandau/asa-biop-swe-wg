@@ -1,5 +1,5 @@
 ---
-title: "`{pmrm}` joins Openstatsware and reaches CRAN"
+title: "`{pmrm}` joins openpharma and reaches CRAN"
 author: "Will Landau"
 subtitle: "Announcing a new R package for progression models for repeated measures"
 description: "`{pmrm}` is one of our newest R packages, implementing frequentist progression models for repeated measures (PMRMs) for clinical trials in progressive diseases."
@@ -8,7 +8,7 @@ categories: [news, R]
 image: "pmrm-logo.png"
 ---
 
-We are delighted to announce that [`{pmrm}`](https://openpharma.github.io/pmrm/) has joined Openstatsware and is now available on [CRAN](https://CRAN.R-project.org/package=pmrm).
+We are delighted to announce that [`{pmrm}`](https://openpharma.github.io/pmrm/) has joined the [openpharma](https://github.com/openpharma) GitHub org and is now available on [CRAN](https://CRAN.R-project.org/package=pmrm).
 This package implements frequentist progression models for repeated measures (PMRMs), a class of continuous-time nonlinear mixed-effects models for longitudinal clinical trials in progressive diseases.
 
 <img src="pmrm-logo.png" alt="Hex Sticker for pmrm R package" width="200"/>
